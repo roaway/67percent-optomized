@@ -3,12 +3,13 @@
     "backcolor": "#ffffff",
     "name": "70% optomized",
     "background": {
-      "name": "Carbon fibre 2",
-      "style": "background-image: url('/bg/carbonfibre/carbon_texture1874.png');"
+      "name": "Aluminium brushed",
+      "style": "background-image: url('/bg/metal/aluminum_texture1642.jpg');"
     },
     "switchMount": "alps",
     "switchBrand": "matias",
-    "switchType": "PG155B01"
+    "switchType": "PG155B01",
+    "pcb": false
   },
   [
     "~\n`\n\n\nEsc",
