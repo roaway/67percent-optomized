@@ -94,7 +94,13 @@
   ],
   [
     "Ctrl",
-    "Win",
+    {
+      "a": 0
+    },
+    "YAFK\n\n\n\nFn\nKey\nYet\n\n\n\nAnother",
+    {
+      "a": 4
+    },
     "Alt",
     {
       "w": 2.25
