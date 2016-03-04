@@ -1,7 +1,14 @@
 [
   {
-    "backcolor": "#000000",
-    "name": "70% optomized"
+    "backcolor": "#ffffff",
+    "name": "70% optomized",
+    "background": {
+      "name": "Carbon fibre 2",
+      "style": "background-image: url('/bg/carbonfibre/carbon_texture1874.png');"
+    },
+    "switchMount": "alps",
+    "switchBrand": "matias",
+    "switchType": "PG155B01"
   },
   [
     "~\n`\n\n\nEsc",
